@@ -12,7 +12,7 @@ This dashboard is created to help managers and project teams review the rate of 
 - **Dashboard Design: Visualized layouts, labels, colors and filter cards to make a dashboard look easy and clean to read.
 
 ## Dashboard Preview:
-
+https://github.com/lamthy12/PowerBI_ProjectHealth/blob/main/ProjectManagment_LamThy.pbix
 
 
 ## Closing Thoughts:
